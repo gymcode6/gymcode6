@@ -1,12 +1,14 @@
-# Carlos Osorio
+# Hi!! 👋🏻 i'm Carlos Osorio
 
-<img width="727" alt="Captura de pantalla 2024-09-14 a la(s) 9 39 04 p m" src="https://github.com/user-attachments/assets/04baf161-0974-483f-a1a1-1696f9ae6230">
-
-
-## Links
 [![Upwork][Upwork-badge]][Upwork-url] 
 [![LinkedIn][LinkedIn-badge]][LinkedIn-url]
 [![Instagram][Instagram-badge]][Instagram-url]
+
+I'm a self-taught programmer who enjoys writing code for both client-side user interfaces and server-side application logic.
+
+I learned to code through online courses and resources, both free and paid, and strengthened my skills by practicing and building sustainable, efficient Full-Stack applications.
+
+In my GitHub Porfile,, i've shared some of my best projects.
 
 ## Knowledge
 [![Python][Python-badge]][Python-url]
@@ -19,6 +21,7 @@
 [![Java][Java-badge]][Java-url]
 [![Spring][Spring-badge]][Spring-url]
 [![MySQL][MySQL-badge]][MySQL-url]
+
 
 [Upwork-badge]: https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white
 [Upwork-url]: https://www.upwork.com/freelancers/~01093075254cf375b0
